@@ -21,13 +21,13 @@ feature:
   icon_pack: fab
   name: Python
 - description: 70%
-  icon: fa-r-project
-  icon_pack: fas
+  icon: r-project
+  icon_pack: fab
   name: R
 - description: 80%
   icon: node-js
-  icon_pack: fas
-  name: Node.JS
+  icon_pack: fab
+  name: Node.Js
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
