@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link:https://github.com/dnguyen2021/MacAbroad
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Designed a study away app to streamline the process to selecting a study away program at Macalester College. Application was built using Ionic with a Firebase backend. 
 tags:
 - Demo
-title: External Project
+title: MacAbroad 
 ---
