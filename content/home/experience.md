@@ -53,7 +53,7 @@ experience:
         * Comprehensive analysis of novel proposed treatment 
 
   - title: 'AI/Robotics Researcher'
-    company: 'macalester College'
+    company: 'Macalester College'
     company_url: ''
     location: 'St. Paul, MN'
     date_start: '2019-05-01'
