@@ -24,7 +24,7 @@ date_format: Jan 2021
 # experience: - title: company: company_url: '' location: date_start: '' date_end: '' description: |2- Responsibilities include:  *   *   * 
    
 experience:
-  - title: 'Graduate SWARM Resaercher'
+  - title: 'Graduate SWARM Researcher'
     company: 'University of Minnesota'
     company_url: ''
     location: 'Twin Cities, MN'
@@ -34,7 +34,39 @@ experience:
         Responsibilities include:
         
         * Simulations
+        
         * Analysis of SWARM behavior 
-        * Conducting Literary Reviews of Related Works
+        
+        * Conducting literary reviews of related works
+
+  - title: 'Mayo Innovations Research Scholar'
+    company: 'Mayo Clinic'
+    company_url: ''
+    location: 'Rochester, MN'
+    date_start: '2020-03-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Collaboration with Mayo Clinic researchers and physicians
+        
+        * Comprehensive analysis of novel proposed treatment 
+
+  - title: 'AI/Robotics Researcher'
+    company: 'macalester College'
+    company_url: ''
+    location: 'St. Paul, MN'
+    date_start: '2019-05-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Usage of tensorflow/keras to create neural network from scratch 
+        
+        * Improvement of existing Monte Carlo framework 
+        
+        * Integrating neural network into ROS-based turtlebot to enhance indoor localization and     navigation 
+  
+  
   
 ---
