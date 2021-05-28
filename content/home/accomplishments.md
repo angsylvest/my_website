@@ -26,8 +26,8 @@ date_format: Jan 2006
 item:
   certificate_url: ""
   date_end: "" 
-  date_start: "Sept 2020" 
+  date_start: Sept 2020
   description: "" 
-  organization: "University of Minnesota - Twin Cities" 
-  title: "ADC Fellowship"
+  organization: University of Minnesota - Twin Cities
+  title: ADC Fellowship
 ---
