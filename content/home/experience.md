@@ -23,10 +23,18 @@ date_format: Jan 2021
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # experience: - title: company: company_url: '' location: date_start: '' date_end: '' description: |2- Responsibilities include:  *   *   * 
    
-# an attempt to add one experience to website
-item: 
-  title: Graduate Student Researcher
-  company: University of Minnesota - Twin Cities
-  date_start: Sept 2020
+experience:
+  - title: 'Graduate SWARM Resaercher'
+    company: 'University of Minnesota'
+    company_url: ''
+    location: 'Twin Cities, MN'
+    date_start: '2020-09-01'
+    date_end: ''
+    description: >-
+        Responsibilities include:
+        
+        * Simulations
+        * Analysis of SWARM behavior 
+        * Conducting Literary Reviews of Related Works
   
 ---
