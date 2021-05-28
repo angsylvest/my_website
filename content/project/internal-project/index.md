@@ -8,7 +8,7 @@ slides: example
 summary: Foundations of Deep Learning 
 tags:
 - Deep Learning
-title: Internal Project
+title: Exploring the Fundamentals of Deep Learning
 url_code: ""
 url_pdf: ""
 url_slides: ""
