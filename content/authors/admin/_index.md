@@ -18,7 +18,6 @@ interests:
 - Deep Learning 
 organizations:
 - name: University of Minnesota - Twin Cities 
-  url: https://twin-cities.umn.edu/
 
 social:
 - icon: envelope
