@@ -6,6 +6,7 @@ image:
   focal_point: Smart
 summary: Foundations of Deep Learning 
 tags:
+- Deep Learning
 title: Exploring the Fundamentals of Deep Learning
 url_code: ""
 url_pdf: ""
