@@ -4,7 +4,6 @@ external_link: "https://digitalcommons.macalester.edu/mathcs_honors/49/"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-slides: example
 summary: Foundations of Deep Learning 
 tags:
 - Deep Learning
