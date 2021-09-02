@@ -9,6 +9,7 @@ image:
 summary: Setaria and maize research poster for summer 2021. 
 tags:
 - Genomics
+- Research 
 title: Maize Genomics Research Poster
 ---
 
