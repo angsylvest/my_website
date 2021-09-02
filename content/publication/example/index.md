@@ -30,14 +30,8 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 
 abstract: We study the forward collective behavior problem:
-how to predict swarm behavior given a problem description and high level characteristics of the robot
-control algorithm. We present a differential equation
-model of swarm behavior which does not require posthoc parameter tuning or knowledge of the nature of the
-problem the swarm is working on to produce accurate
-predictions. Instead, our model computes its internal
-parameters directly from the problem description and
-robot control algorithm characteristics. We present results showing that our model accurately predicts behavior and performance in swarms of up to 12,000 robots
-across a wide range of object gathering scenarios.
+how to predict swarm behavior given a problem description and high level characteristics of the robot control algorithm. We present a differential equation model of swarm behavior which does not require posthoc parameter tuning or knowledge of the nature of the problem the swarm is working on to produce accurate predictions. Instead, our model computes its internal
+parameters directly from the problem description and robot control algorithm characteristics. We present results showing that our model accurately predicts behavior and performance in swarms of up to 12,000 robots across a wide range of object gathering scenarios.
 
 # Summary. An optional shortened abstract.
 summary: 
