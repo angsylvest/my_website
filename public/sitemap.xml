@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.angel-sylvester.com/publication-type/1/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/publication/example/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.angel-sylvester.com/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/author/angel-sylvester/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/authors/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/author/john-harwell/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/publication_types/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.angel-sylvester.com/publication/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,41 +80,6 @@
   <url>
     <loc>https://www.angel-sylvester.com/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/author/angel-sylvester/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/authors/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.angel-sylvester.com/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
