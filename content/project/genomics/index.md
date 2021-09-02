@@ -6,8 +6,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-summary: During the summer 2021, I conducted applied genomics research in maize and setaria. The internship consisted of field work, modeling work, as well as wet lab as we sought to better understand the genetic factors that contribute to the observed traits in these species.  
-
+summary: Setaria and maize research poster for summer 2021. 
 tags:
 - Genomics
 title: Maize Genomics Research Poster
