@@ -14,8 +14,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-# date: "2013-07-01T00:00:00Z"
-# doi: ""
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-02T00:00:00Z"
@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication_short: ""
 
 abstract: We study the forward collective behavior problem:
 how to predict swarm behavior given a problem description and high level characteristics of the robot
@@ -53,7 +53,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www-users.cse.umn.edu/~gini/publications/papers/Harwell2021icraw.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
