@@ -28,7 +28,6 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: ""
 
 abstract: We study the forward collective behavior problem:
 how to predict swarm behavior given a problem description and high level characteristics of the robot
