@@ -6,18 +6,18 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- John Harwell
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-09-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: ""
+publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:We study the forward collective behavior problem: how to predict swarm behavior given a problem de- scription and high level characteristics of the robot control algorithm. We present a differential equation model of swarm behavior which does not require post- hoc parameter tuning or knowledge of the nature of the problem the swarm is working on to produce accurate predictions. Instead, our model computes its internal parameters directly from the problem description and robot control algorithm characteristics. We present re- sults showing that our model accurately predicts behav- ior and performance in swarms of up to 12,000 robots across a wide range of object gathering scenarios.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www-users.cse.umn.edu/~gini/publications/papers/Harwell2021icraw.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
