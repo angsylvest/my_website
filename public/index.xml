@@ -5,7 +5,7 @@
     <link>https://www.angel-sylvester.com/</link>
       <atom:link href="https://www.angel-sylvester.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Angel Sylvester</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.angel-sylvester.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Angel Sylvester</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Maize Genomics Research Poster</title>
+      <link>https://www.angel-sylvester.com/project/genomics/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.angel-sylvester.com/project/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Robust Model For Predicting Collective Behavior in Large Robot Swarms</title>
       <link>https://www.angel-sylvester.com/publication/example/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       <guid>https://www.angel-sylvester.com/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -162,17 +170,17 @@ Three
     
     <item>
       <title>Exploring the Fundamentals of Deep Learning</title>
-      <link>https://www.angel-sylvester.com/project/internal-project/</link>
+      <link>https://www.angel-sylvester.com/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.angel-sylvester.com/project/internal-project/</guid>
+      <guid>https://www.angel-sylvester.com/project/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MacAbroad Application</title>
-      <link>https://www.angel-sylvester.com/project/external-project/</link>
+      <link>https://www.angel-sylvester.com/project/mac-abroad/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.angel-sylvester.com/project/external-project/</guid>
+      <guid>https://www.angel-sylvester.com/project/mac-abroad/</guid>
       <description></description>
     </item>
     
