@@ -1,41 +1,22 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-# This file represents a page section.
-headless: true
+title: "Current Ongoing Projects"
+date: "2024-04-03T00:00:00Z"
+description: "List of current ongoing projects with GitHub links"
+menu: main
 
 # Order that this section appears on the page.
-weight: 60
-
-title: Recent Posts
-subtitle:
-
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: post
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+weight: 30
 ---
+
+## Thesis Focus: Applying Insights from Nature in Problems Relevant to Multi-robot Cooperation and Collaboration
+
+### Project 1: Fostering Real-time Collaboration and Learning in Search Environments for Multi-robot Systems through Dynamic Evolutionary Algorithm 
+
+### Project 2: Incorporating Bayesian Intuition and Bio-inspired Game Theoretic Perspective in Multi-robot Coordination in Search Environmnents 
+
+
+### Project 3: Addressing Social Restraint and Awareness for Sequential Social Dilemmas in Multi-Agent Reinforcement Learning
+
+
+<!-- Add more projects as needed -->
+
