@@ -13,9 +13,10 @@ email: "sylve057@umn.edu"
 
 highlight_name: false
 interests:
-- Artificial Intelligence
 - Robotics 
-- Deep Learning 
+- Deep Learning
+- Reinforcement Learning
+- Generative AI 
 organizations:
 - name: University of Minnesota - Twin Cities 
 
@@ -39,4 +40,4 @@ title: Angel Sylvester
 Angel Sylvester is a graduate student at the University of Minnesota. Her area of study includes Robotics/Artificial Intelligence in Maria Gini’s lab. 
 
 # {{< icon name="download" pack="fas" >}} 
-Download my {{< staticref "media/2023-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my {{< staticref "media/2024-cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

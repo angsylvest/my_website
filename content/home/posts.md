@@ -14,8 +14,7 @@ weight: 30
 
 ### Project 2: Incorporating Bayesian Intuition and Bio-inspired Game Theoretic Perspective in Multi-robot Coordination in Search Environmnents 
 
-
-### Project 3: Addressing Social Restraint and Awareness for Sequential Social Dilemmas in Multi-Agent Reinforcement Learning
+### Project 3 (side): Addressing Social Restraint and Awareness for Sequential Social Dilemmas in Multi-Agent Reinforcement Learning
 
 
 <!-- Add more projects as needed -->

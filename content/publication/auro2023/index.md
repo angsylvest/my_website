@@ -1,6 +1,5 @@
 ---
-title: "A Robust Model For Predicting Collective Behavior in Large
-Robot Swarms"
+title: "An empirical characterization of ODE models of swarm behaviors in common foraging scenarios"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
