@@ -40,4 +40,4 @@ title: Angel Sylvester
 Angel Sylvester is a graduate student at the University of Minnesota. Her area of study includes Robotics/Artificial Intelligence in Maria Gini’s lab. 
 
 # {{< icon name="download" pack="fas" >}} 
-Download my {{< staticref "media/2024-cv.pdf" "newtab" >}}academic cv{{< /staticref >}} or my {{< staticref "media/technical-resume-2024.pdf" "newtab" >}}technical resumé{{< /staticref >}} .
+Download my {{< staticref "media/2025-cv.pdf" "newtab" >}}academic cv{{< /staticref >}} or my {{< staticref "media/technical-resume-2024.pdf" "newtab" >}}technical resumé{{< /staticref >}} .
